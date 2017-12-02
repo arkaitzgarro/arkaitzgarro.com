@@ -1,2 +1,3 @@
-# arkaitzgarro.github.com
-Personal web page. http://www.arkaitzgarro.com
+# arkaitzgarro.com
+
+> Personal web page. https://www.arkaitzgarro.com
