@@ -6,7 +6,11 @@
   "background_color": "#fff",
   "description": "Arkait Garro's personal website",
   "icons": [{
-    "src": "assets/logo.png",
+    "src": "//assets.arkaitzgarro.com/favicon.ico",
+    "sizes": "48x48",
+    "type": "image/x-icon"
+  },{
+    "src": "//assets.arkaitzgarro.com/logo.png",
     "sizes": "150x150",
     "type": "image/png"
   }],
