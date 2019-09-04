@@ -1,6 +1,7 @@
 # Manager README
 
 **Written by**: Arkaitz Garro, Lead Frontend Engineer @ WeTransfer
+
 **Last update**: Nov 13, 2018
 
 ## Motivation behind this document
